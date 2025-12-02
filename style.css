@@ -675,8 +675,7 @@ footer{
     }
     tr{
         /* position: absolute; */
-        top: -9999px;
-        left: -9999px;
+       
         margin-bottom: 10px;
         border: 1px solid #ddd;
         width:10px;
